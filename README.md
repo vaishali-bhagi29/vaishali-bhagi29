@@ -61,12 +61,5 @@ M.Sc. Computer Science graduate with a strong interest in data analysis, data vi
 - Data Modeling (Star Schema, Normalization)
 
 ---
-
-## 📫 Contact
-LinkedIn: https://www.linkedin.com/in/vaishali-ramanathan
-GitHub: https://github.com/vaishali-bhagi29
-
----
-
 ⭐️ *Feel free to explore my repositories and reach out for collaboration!*
 ---
