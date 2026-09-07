@@ -4,6 +4,10 @@
 
 ### Aspiring Data Analyst | Power BI | SQL | Python
 
+🔗 [LinkedIn](https://www.linkedin.com/in/vaishali-ramanathan) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/vaishali-bhagi29)
+
+---
+
 ## 🎯 About Me
 
 Final-year M.Sc. Computer Science student with a strong interest in data analysis, data visualization, and business intelligence. Skilled in transforming raw, unstructured data into meaningful dashboards and reports using modern data tools. Passionate about uncovering insights that drive better business decisions.
