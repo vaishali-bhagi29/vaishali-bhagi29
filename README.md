@@ -32,17 +32,17 @@ M.Sc. Computer Science graduate with a strong interest in data analysis, data vi
 - Developed interactive dashboards to track churn rate and key metrics
 
 ### 🍪 BJ Biscuit Business Analysis Dashboard
-*Power BI*
+* Microsoft Excel*
 - Built dashboards to analyze sales, revenue, and product performance
 - Created KPIs and visual reports for business decision-making
 
 ### 🛒 Amazon Sales Dashboard
-*Power BI*
+*Power BI + Excel*
 - Designed dashboards to monitor revenue, profit, and sales trends
 - Provided region-wise and category-wise performance insights
 
 ### 🏢 Organization Analysis Dashboard
-*Power BI*
+*Power BI + Excel*
 - Developed dashboards to evaluate organizational performance metrics
 
 ### 🥫 Grocery Management System
