@@ -63,8 +63,8 @@ M.Sc. Computer Science graduate with a strong interest in data analysis, data vi
 ---
 
 ## 📫 Contact
-LinkedIn: vaishali-ramanathan
-GitHub: vaishali-bhagi29
+LinkedIn: https://www.linkedin.com/in/vaishali-ramanathan
+GitHub: https://github.com/vaishali-bhagi29
 
 ---
 
