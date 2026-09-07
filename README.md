@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Vaishali Bhagirathi
+# 👋 Hi, I'm Vaishali
 
 ### Aspiring Data Analyst | Power BI | SQL | Python
 
