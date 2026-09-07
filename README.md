@@ -9,8 +9,7 @@
 
 ## 🎯 About Me
 
-Final-year M.Sc. Computer Science student with a strong interest in data analysis, data visualization, and business intelligence. Skilled in transforming raw, unstructured data into meaningful dashboards and reports using modern data tools. Passionate about uncovering insights that drive better business decisions.
-
+M.Sc. Computer Science graduate with a strong interest in data analysis, data visualization, and business intelligence. Completed a traineeship at Infochola Solutions, gaining hands-on experience transforming raw, unstructured data into meaningful dashboards and reports using modern data tools. Microsoft Certified: Power BI Data Analyst (PL-300). Passionate about uncovering insights that drive better business decisions.
 ---
 
 ## 🛠️ Skills
