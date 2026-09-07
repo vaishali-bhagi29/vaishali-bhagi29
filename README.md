@@ -9,19 +9,17 @@
 
 ## 🎯 About Me
 
-M.Sc. Computer Science graduate with a strong interest in data analysis, data visualization, and business intelligence. Completed a traineeship at Infochola Solutions, gaining hands-on experience transforming raw, unstructured data into meaningful dashboards and reports using modern data tools. Microsoft Certified: Power BI Data Analyst (PL-300). Passionate about uncovering insights that drive better business decisions.
+M.Sc. Computer Science graduate with a strong interest in data analysis, data visualization, and business intelligence. Completed a traineeship at **Infochola Solutions**, gaining hands-on experience transforming raw, unstructured data into meaningful dashboards and reports using modern data tools. Microsoft Certified: **Power BI Data Analyst (PL-300)**. Passionate about uncovering insights that drive better business decisions.
+
 ---
 
 ## 🛠️ Skills
 
-**Tools & Technologies:**
-Power BI · Microsoft Excel · MySQL · Python · Microsoft Fabric
+**Tools & Technologies:** Power BI · Microsoft Excel · MySQL · Python · Microsoft Fabric
 
-**Core Concepts:**
-Data Cleaning · Data Modeling · KPI Analysis · Data Visualization
+**Core Concepts:** Data Cleaning · Data Modeling · KPI Analysis · Data Visualization
 
-**Additional:**
-Power Query · DAX
+**Additional:** Power Query · DAX
 
 ---
 
@@ -53,6 +51,11 @@ Power Query · DAX
 
 ---
 
+## 🏆 Certifications
+- Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+
+---
+
 ## 📚 Currently Learning
 - Advanced SQL
 - Data Modeling (Star Schema, Normalization)
@@ -60,7 +63,10 @@ Power Query · DAX
 ---
 
 ## 📫 Contact
-- LinkedIn: [vaishali-ramanathan](https://www.linkedin.com/in/vaishali-ramanathan)
-- GitHub: [vaishali-bhagi29](https://github.com/vaishali-bhagi29)
+LinkedIn: vaishali-ramanathan
+GitHub: vaishali-bhagi29
 
+---
+
+⭐️ *Feel free to explore my repositories and reach out for collaboration!*
 ---
